@@ -1,0 +1,1 @@
+Admin Module where the data of users is shown. There is a option given to update the info of user. If anyone update or changes or tamper the info of user without using update function ( for ex: by directly accessing the database) it will show the error ie. data tampering detected.
